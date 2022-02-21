@@ -1,0 +1,8 @@
+{
+    "Provider": true,
+    "Client": true,
+    "Service": true,
+    "Order": true,
+    "Admin": true,
+    "Common": true
+}
